@@ -85,7 +85,7 @@ Los autores cuentan con amplia experiencia en docencia universitaria, investigac
 
 > Cada capítulo incluye también un notebook de **problemas resueltos** (`chapter_XX_solved_problems.ipynb`).
 
-📄 **Muestra gratuita:** [Descargar Capítulo 1 (PDF)](ebook_sample/Fundamentos%20de%20Cálculo%20I%2C%20Jheser%20Guzman%20y%20Jhohan%20Guzman%2C%202025%2C%20Ebook%20Sample%20%28Chapter%201%29.pdf)
+📄 **Muestra gratuita:** [Descargar Capítulo 1 (PDF)](ebook_sample/Fundamentos%20de%20Calculo%20I%2C%20Jheser%20Guzman%20y%20Jhohanser%20Guzman%2C%202026%2C%20Ebook%20Sample%20(Chapter%201).pdf)
 
 ---
 
