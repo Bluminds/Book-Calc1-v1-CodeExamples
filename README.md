@@ -24,25 +24,25 @@ Este libro introduce de manera sistemática los fundamentos del cálculo diferen
 
 ### Temas centrales
 
-**Fundamentos computacionales:
-- **✓ Programación en Python aplicada al cálculo con NumPy, SymPy y Matplotlib
-- **✓ Visualización gráfica de funciones, límites, derivadas e integrales
+**Fundamentos de Python:**
+- ✓ Programación en Python aplicada al cálculo con NumPy, SymPy y Matplotlib
+- ✓ Visualización gráfica de funciones, límites, derivadas e integrales
 
-**Funciones reales de una variable:
-- **✓ Funciones algebraicas, trascendentes y definidas a trozos
-- **✓ Dominio, rango, continuidad y comportamiento global de funciones
+**Funciones reales de una variable:**
+- ✓ Funciones algebraicas, trascendentes y definidas a trozos
+- ✓ Dominio, rango, continuidad y comportamiento global de funciones
 
-**Límites y continuidad:
-- **✓ Límites laterales, infinitos y al infinito
-- **✓ Continuidad de funciones y propiedades fundamentales
+**Límites y continuidad:**
+- ✓ Límites laterales, infinitos y al infinito
+- ✓ Continuidad de funciones y propiedades fundamentales
 
-**Derivadas:
-- **✓ Definición de derivada y significado geométrico y físico
-- **✓ Reglas de derivación y derivadas de funciones elementales
+**Derivadas:**
+- ✓ Definición de derivada y significado geométrico y físico
+- ✓ Reglas de derivación y derivadas de funciones elementales
 
-**Integrales simples:
-- **✓ Integral indefinida y antiderivadas
-- **✓ Cálculo de áreas y aplicaciones elementales
+**Integrales simples:**
+- ✓ Integral indefinida y antiderivadas
+- ✓ Cálculo de áreas y aplicaciones elementales
 
 ---
 
@@ -64,9 +64,9 @@ Los autores cuentan con amplia experiencia en docencia universitaria, investigac
 
 | Formato | Libro |
 |---------|:---------:|
-| 📗 **Paperback + Color** | <img src="images/book_color_vol1.jpg" width="160"/><br>[🛒 Comprar en Amazon](https://www.amazon.com/dp/1234567890)|
-| 📘 **Paperback + Escala de Grises** | <img src="images/book_bw_vol1.jpg" width="160"/><br>[🛒 Comprar en Amazon](https://www.amazon.com/dp/1234567890) |
-| 📙 **Hardcover + Color Premium** | [🛒 Comprar en Amazon](https://www.amazon.com/dp/1234567890) |
+| 📗 **Paperback + Color** | <img src="images/book_color_vol1.jpg" width="160"/><br>[🛒 Comprar en Amazon](https://www.amazon.com/dp/1967406073)|
+| 📘 **Paperback + Escala de Grises** | <img src="images/book_bw_vol1.jpg" width="160"/><br>[🛒 Comprar en Amazon](https://www.amazon.com/dp/1967406413) |
+| 📙 **Hardcover + Color Premium** | [🛒 Comprar en Amazon](https://www.amazon.com/dp/1967406103) |
 
 ---
 
